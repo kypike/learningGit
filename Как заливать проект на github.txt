@@ -1,0 +1,9 @@
+1) Firtsly, we need to create repository pn GitHub(create repository)
+2) Then we should go to the terminal, and wirte "git init"(git init)
+3) After, we need to write "git add .", but by this method we add all files we have in our project(git add.)
+4) Next, we write in terminal "git commit -m "comment" " (git commit -m "comment)"
+5) Next step is writing "git remote add origin "https://github.com/.." "(git remote add origin "https://github.com/..)
+6) Last thing, that we need to do is write "git push -u origin master"(git push -u origin master)
+----------------------------------------------------------------------------------------------------------------------
+
+				IT WAS METHOD OF CREATING REPOSITORY AND UPLOAD PROJECT
